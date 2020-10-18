@@ -128,7 +128,7 @@
 - [百度网盘](https://pan.baidu.com/s/1fjtNVfjSrRTRZdsZpSsQ5Q) 提取码:5o6q
 
 ### 高频面经
-- [这里]()
+- [java基础](java/java.md)
 
 ## <img src="Icons/wareHouse.png" width="70px"> <span id="ware">数据仓库</span>
 
